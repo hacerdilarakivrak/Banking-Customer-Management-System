@@ -1,4 +1,4 @@
-# Banking Customer Menagement System
+# Banking Customer Management System
 
 ## Project Overview
 
